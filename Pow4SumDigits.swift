@@ -10,7 +10,7 @@
 import Foundation
 
 // Define a function to find out if a number is to the power of 4
-func powerOfFour(_ num: Int,_ multipleOfFour: Int = 4) -> Bool {
+func powerOfFour(_ num: Int, _ multipleOfFour: Int = 4) -> Bool {
    // if it is return true
     if multipleOfFour == num {
         return true
@@ -24,7 +24,7 @@ func powerOfFour(_ num: Int,_ multipleOfFour: Int = 4) -> Bool {
 }
 
 // define a function to find out the sum of all of the digits
-func sumOfDigits(_ index: Int,_ stringNums: [String]) -> Int {
+func sumOfDigits(_ index: Int, _ stringNums: [String]) -> Int {
     // base case
     if index >= stringNums.count {
         return 0
