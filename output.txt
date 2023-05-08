@@ -1,0 +1,10 @@
+The sum of all of the digits of 5 is 5
+5 is not a power of four
+The sum of all of the digits of 16 is 7
+16 is a power of four
+The sum of all of the digits of 5438978 is 44
+5438978 is not a power of four
+The sum of all of the digits of -5372 is 17
+-5372 is not a power of four
+The sum of all of the digits of 0 is 0
+0 is not a power of four
